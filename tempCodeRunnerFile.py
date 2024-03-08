@@ -1,1 +1,1 @@
-        pygame.display.flip()
+ai_settings.screen_width, ai_settings.screen_height
